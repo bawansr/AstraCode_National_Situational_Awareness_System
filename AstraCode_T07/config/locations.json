@@ -1,0 +1,19 @@
+{
+    "Colombo": {"lat": 6.9271, "lon": 79.8612},
+    "Kandy": {"lat": 7.2906, "lon": 80.6337},
+    "Galle": {"lat": 6.0535, "lon": 80.2210},
+    "Jaffna": {"lat": 9.6615, "lon": 80.0255},
+    "Negombo": {"lat": 7.2081, "lon": 79.8378},
+    "Anuradhapura": {"lat": 8.3114, "lon": 80.4037},
+    "Trincomalee": {"lat": 8.5874, "lon": 81.2152},
+    "Batticaloa": {"lat": 7.7310, "lon": 81.6747},
+    "Matara": {"lat": 5.9549, "lon": 80.5550},
+    "Kurunegala": {"lat": 7.4863, "lon": 80.3647},
+    "Ratnapura": {"lat": 6.6828, "lon": 80.3992},
+    "Badulla": {"lat": 6.9897, "lon": 81.0558},
+    "Nuwar Eliya": {"lat": 6.9497, "lon": 80.7891},
+    "Hambantota": {"lat": 6.1429, "lon": 81.1212},
+    "Dambulla": {"lat": 7.8742, "lon": 80.6511},
+    "Gampaha": {"lat": 7.0840, "lon": 79.9939},
+    "Kalutara": {"lat": 6.5854, "lon": 79.9607}
+}

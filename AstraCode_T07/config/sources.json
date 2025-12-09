@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Ada Derana",
+    "url": "http://adaderana.lk/rss.php"
+  },
+  {
+    "name": "Daily Mirror",
+    "url": "https://www.dailymirror.lk/RSS_Feeds/1"
+  },
+  {
+    "name": "Economy Next",
+    "url": "https://economynext.com/feed/"
+  },
+  {
+    "name": "Daily News",
+    "url": "http://www.dailynews.lk/feed"
+  },
+  {
+    "name": "The Island",
+    "url": "http://island.lk/feed"
+  },
+  {
+    "name": "Colombo Page",
+    "url": "http://www.colombopage.com/feed.xml"
+  },
+  {
+    "name": "Google News (General)",
+    "url": "https://news.google.com/rss/search?q=Sri+Lanka&hl=en-LK&gl=LK&ceid=LK:en"
+  }
+]

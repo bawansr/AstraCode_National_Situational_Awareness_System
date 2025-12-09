@@ -1,0 +1,16 @@
+{
+    "app_settings": {
+        "database_name": "news.db",
+        "refresh_interval_seconds": 300,
+        "sources_file": "sources.json"
+    },
+    "sector_logic": {
+        "INFRASTRUCTURE": ["power", "energy", "fuel", "gas", "water", "grid", "ceb", "cpc"],
+        "LOGISTICS": ["transport", "port", "ship", "flight", "airline", "bus", "train", "road", "driver", "customs"],
+        "FINANCE": ["bank", "tax", "rupee", "dollar", "rate", "imf", "debt", "bond", "stock", "market", "economy", "inflation"],
+        "LABOR": ["union", "strike", "worker", "salary", "wages", "protest", "staff", "employment"],
+        "POLITICS": ["parliament", "president", "minister", "election", "vote", "cabinet", "law", "gazette"],
+        "SOCIETY": ["health", "school", "university", "education", "hospital", "medicine", "police", "crime"],
+        "EVENTS": ["cricket", "match", "tournament", "concert", "exhibition", "holiday", "festival", "perahera"]
+    }
+}

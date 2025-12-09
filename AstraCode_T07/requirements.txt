@@ -1,0 +1,8 @@
+streamlit
+pandas
+feedparser
+scikit-learn
+transformers 
+torch
+beautifulsoup4
+
