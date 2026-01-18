@@ -37,7 +37,7 @@ AstraCode avoids "Black Box" APIs in favor of a locally running, transparent arc
 
 ### 1. Clone the Repository
 ```bash
-git clone [
+git clone [https://github.com/bawansr/AstraCode_National_Situational_Awareness_System]
 cd astracode
 2. Set up Virtual EnvironmentBash# Windows
 python -m venv venv
